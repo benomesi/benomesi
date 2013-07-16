@@ -1,0 +1,70 @@
+body{
+	background-image: url("background.png");
+	color: white;
+}
+
+a{
+	font-family: "bikoregular";
+	text-transform: uppercase;
+	color: white;
+	text-decoration: none;
+	display: inline;
+	margin-left: 65px;
+	padding-right: 50px;
+	letter-spacing: 5px;
+
+}
+
+a:hover{
+	color: yellow;
+	font-size: 1.2em;
+	font-family: "bikoregular";
+
+}
+
+
+.title{
+	font-family: "bikoregular", sans-serif;
+	letter-spacing: 15px;
+	font-style: normal;
+	text-transform: uppercase;
+	width: 956px;
+	height: 49px;
+	text-align: center;
+}
+
+#wrapper{
+	width: 900px;
+	margin: 0 auto;
+
+}
+
+.header{
+	width: 100%;
+	margin: 0 auto;
+	margin-top: 150px;
+}
+
+.div-nav{
+	width: 100%;
+	margin: 0 auto;
+	padding-top: 10px;
+}
+
+.nyc{
+	display: none;
+	position: absolute;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 900px;
+	text-align: center;
+}
+
+.nyc2{
+	
+	position: absolute;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	width: 900px;
+	text-align: center;
+}
